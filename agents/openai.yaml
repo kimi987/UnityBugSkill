@@ -1,0 +1,4 @@
+interface:
+  display_name: "Remember Bugs"
+  short_description: "Record recurring bugs and consult them before related coding."
+  default_prompt: "Record this bug so future coding avoids repeating it."
